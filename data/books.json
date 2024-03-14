@@ -1,0 +1,29 @@
+{
+    "books": [
+        {
+            "judul": "Python Programming: An Introduction to Computer Science",
+            "author": "John Zelle",
+            "tahun": 2016
+        },
+        {
+            "judul": "Clean Code: A Handbook of Agile Software Craftsmanship",
+            "author": "Robert C. Martin",
+            "tahun": 2008
+        },
+        {
+            "judul": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "tahun": 1925
+        },
+        {
+            "judul": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "tahun": 1960
+        },
+        {
+            "judul": "Data Mining",
+            "author": "Dr. Suyanto",
+            "tahun": 2022
+        }
+    ]
+}
